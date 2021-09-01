@@ -91,5 +91,38 @@ second web element operational methods
 ###### And set property is predefined method of system class 
 
 **WebDriver is an interface.**
+Automation script in deal with 2 methods:- 
+*WebDriver methods*
 
+*Web element operational methods*
 
+WebDriver Methods:- 
+#. get(): It is used to open url.
+
+#. getCurrentUrl(): It is used to get the url address of current opened url. 
+
+#. getTitle(): It is used to get the title of current web page.
+
+#. findElement(): It is used to find the single/unique web element on web page.
+
+#. findElements(): It is used to find one or more than one web elements on web page by using List interface. 
+
+#. close(): It is used to close the current window. If there are multiple windows, it will close the current window which is active.
+
+#. quit(): It is use dto quit all associated window which is opened.
+
+#. getWindowHandle(): It is used to handle single window. 
+
+#. getWindowHandles(): It is used to handle multiple windows.
+
+#. switchTo:- It is used to switch from one window to another window, frame, alert, popups. 
+
+#. navigate(): It is used to open url, refresh the page, navigate back, navigate forward, etc.
+
+#. manage(): It is used to maximize the window. 
+
+#. getPageSurce(): It is used to get the page source. 
+
+PROGAM BASED ON ABOVE METHODS 
+
+https://github.com/tasterntester/Selenium-Webdriver/blob/main/OpenUrlProgram.java
