@@ -1,7 +1,15 @@
 # Selenium-Webdriver
 Here i used different websites for different commands used in java
 
-<a href="https://www.google.com/" target="blank"><img align="center" src="https://freesvg.org/img/1534129544.png" alt="nitesh-ghorpade" height="50" width="50" /></a><a href="https://www.facebook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="nitesh-ghorpade" height="50" width="50" /></a><a href="https://money.rediff.com/index.html/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Rediff-logo.png" alt="nitesh-ghorpade" height="50" width="130" /></a><a href="https://www.flipkart.com/" target="blank"><img align="center" src="https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png" alt="nitesh-ghorpade" height="50" width="50" /></a>
+<a href="https://www.google.com/" target="blank"><img align="center" src="https://freesvg.org/img/1534129544.png" alt="nitesh-ghorpade" height="50" width="50" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="nitesh-ghorpade" height="50" width="50" /></a>
+<a href="https://money.rediff.com/index.html/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Rediff-logo.png" alt="nitesh-ghorpade" height="50" width="130" /></a>
+<a href="https://www.flipkart.com/" target="blank"><img align="center" src="https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png" alt="nitesh-ghorpade" height="50" width="50" /></a>
+<a href="https://demoqa.com/" target="blank"><img align="center" src="https://demoqa.com/images/Toolsqa.jpg" alt="nitesh-ghorpade" height="50" width="130" /></a> 
+<a href="https://www.naukri.com/" target="blank"><img align="center" src="https://techstory.in/wp-content/uploads/2015/08/Naukri-Logo.jpg" alt="nitesh-ghorpade" height="50" width="200" />
+ <a href="https://paytm.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Paytm_Logo_%28standalone%29.svg/1200px-Paytm_Logo_%28standalone%29.svg.png" alt="nitesh-ghorpade" height="50" width="150" /></a>
+ <a href="https://login.yahoo.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Yahoo%21_%282019%29.svg" alt="nitesh-ghorpade" height="50" width="200" /></a>
+
 ## Selenium it is suit which consists four different components IDE RC WebDriver and grid.
 
 WebDriver is automation testing tool just like IDE RC grid.
